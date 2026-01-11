@@ -26,6 +26,7 @@ layout: default
 ## プライバシーポリシー
 
 プライバシーポリシーは以下をご確認ください。
+
 [Privacy Policy](https://takanori-azegami-jp.github.io/AgreeTrap-docs/index)
 
 ## 免責事項

@@ -26,6 +26,7 @@ Email: t.azegami213@gmail.com
 ## Privacy Policy
 
 Please review our Privacy Policy at the link below.
+
 [Privacy Policy](https://takanori-azegami-jp.github.io/AgreeTrap-docs/index-en)
 
 ## Disclaimer
