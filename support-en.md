@@ -32,6 +32,7 @@ Please review our Privacy Policy at the link below.
 ## Disclaimer
 
 This application is provided on an "as is" basis.
+
 We do not guarantee operation in all environments.
 
 ### Effective Date and Update History
